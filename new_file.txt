@@ -1,1 +1,1 @@
-smne text
+It's coming from new_file.txt
